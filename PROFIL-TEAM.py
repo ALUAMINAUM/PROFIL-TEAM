@@ -1,7 +1,6 @@
 import os
 import sys
 import time
-import storage
 import random
 import socket
 import print 
